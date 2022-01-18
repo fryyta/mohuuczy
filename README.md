@@ -1,0 +1,2 @@
+# mohuuczy
+nie uczy
